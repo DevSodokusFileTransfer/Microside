@@ -1,0 +1,275 @@
+{
+  "settings": {
+    "name": "Better",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#dfff00",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#222222",
+        "#1600ff",
+        "#ffac00",
+        "#00ff40",
+        "#ff0000",
+        "#00fff5",
+        "#dfff00"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.8.7",
+    "siteFonts": [],
+    "uniqCompNum": 18,
+    "versionPublish": "4.8.7",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "MicroSide",
+          "text": "<b>Das ist die Webseite von der Discord <span style=\"font-style: normal;\">Gruppe&nbsp;<font color=\"#00fff5\">Microspace!</font></span></b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://discord.gg/kDDrbQA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Einfach Klicken und Eintreten!</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://discordapp.com/download\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download Discord</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-0",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#93ff00"
+            },
+            ".mbr-section-lead": {
+              "color": "#0010ff",
+              "font-size": "30px"
+            },
+            ".mbr-section-lead B": {
+              "color": "#00ff40"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "color": "#dfff00"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButton": true,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Hier kommt man zu dem Impressum!",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://microtoaster.github.io/Microside_Impressum/\" data-toolbar=\"-mbrBtnMove\">Impressum</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-3"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title I": {
+              "color": "#00fff5"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ff0000"
+            },
+            ".mbr-section-subtitle B": {
+              "font-size": "20px",
+              "color": "#ffac00"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#0010ff"
+          },
+          "title": "<i>Nutzer Ranking!</i>",
+          "meta": "<b>Hier werden die besten und aktivsten Nutzer aufgelistet!</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-d"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#0010ff"
+          },
+          "text": "<p><span style=\"font-size: 30px;\"><b>----------------------------------------</b></span></p><p><span style=\"font-size: 30px;\"><b>&lt;~Top 5~&gt;</b></span></p><p><span style=\"font-size: 30px;\"><b>----------------------------------------</b></span></p><p><b>1. &nbsp;Microwave (Server Owner)</b></p><p><b>2. &nbsp;PandaPlayZ (Sehr Aktiver Nutzer)</b></p><p><b>3. &nbsp;Pischnat (Sehr Aktiver Nutzer)</b></p><p><font color=\"#dfff00\"><b>4. &nbsp;Darkenscheisch (Relativ Aktiver Nutzer)</b></font></p><p><font color=\"#dfff00\"><b>5. &nbsp;--Noch nicht vergeben--</b></font></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-e",
+          "_styles": {
+            "P": {
+              "color": "#93ff00",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "text-align": "center",
+              "font-size": "30px"
+            },
+            "B": {
+              "color": "#dfff00",
+              "font-size": "30px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ff00c9"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ff0000"
+            },
+            ".mbr-section-subtitle B": {
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#00fff5"
+          },
+          "title": "<i>Discord Ranks!</i>",
+          "meta": "<b>Hier werden die Discord Nutzer mit Discord Rang aufgelistet!</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-f"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#00fff5"
+          },
+          "text": "<p><b><i>The Microwaving Toaster</i></b></p><p>Microwave</p><p><b><i><br></i></b></p><p><b><i>Dictator Microwave</i></b></p><p>Microwave</p><p><b><i><br></i></b></p><p><b><i>Supreme Microwave</i></b></p><p>Reji</p><p><b><br></b></p><p><b><i>GLOBAL MICROWAVE!</i></b></p><p>hubbel</p><p>Aim_Hero</p><p>luca.</p><p><br></p><p><b><i>SUPERRIOR MICROWAVE</i></b></p><p>Darkenscheisch</p><p><br></p><p><b><i>SLIGHTLY BETTER MICROWAVE</i></b></p><p>DevSodoku</p><p>Jacket</p><p>Mikrovågsugn</p><p>Tyranth</p><p>CravenCain</p><p>Der Geist</p><p>Duncs [EU]</p><p>FreezerMCX</p><p>Iceman</p><p>Iceman_1902</p><p>IchBinMilch</p><p>Jannik</p><p>Kirosaki</p><p>Koldr</p><p>Murcscraft</p><p>Nelchen</p><p>noahruk</p><p>PandaPlayZ</p><p>Parzival</p><p>Pischnat</p><p>TSMDieTigerEnte</p><p>Warminer1Hero</p><p><br></p><p><b><i>Keine Rollen</i></b></p><p>Pulse</p><p>sowieimmer</p><p>Xis</p><p><br></p><p><i><b>Bot/s</b></i></p><p>Rythm</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-g",
+          "_styles": {
+            "P": {
+              "font-size": "30px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "text-align": "center",
+              "color": "#ff0000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1244.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "Teile doch diese Seite wenn sie dir gefällt:",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-h",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#1600ff",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "60px"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
