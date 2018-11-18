@@ -10,6 +10,8 @@
 
 
 
+
+
 body,
 input,
 textarea,
@@ -433,6 +435,28 @@ h6,
 }
 #msg-box3-3 .mbr-section-title {
   color: #dfff00;
+}
+#header3-6 .mbr-section-title,
+#header3-6 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-6 .mbr-section-subtitle {
+  color: #ff0000;
+  font-size: 20px;
+}
+#header3-6 .mbr-section-title {
+  color: #00fff5;
+}
+#content1-7 P {
+  color: #ff0000;
+  font-size: 30px;
+  font-family: 'Bitter', serif;
+}
+#content1-7 DIV {
+  font-size: 30px;
+  font-family: 'Bitter', serif;
+  color: #00ff40;
+  text-align: center;
 }
 #header3-d .mbr-section-title,
 #header3-d .mbr-section-subtitle {
