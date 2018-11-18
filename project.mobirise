@@ -35,7 +35,15 @@
     "siteFonts": [],
     "uniqCompNum": 18,
     "versionPublish": "4.8.7",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "",
+    "favicon": "@PROJECT_PATH@/assets/images/whatsapp-image-2018-08-31-at-21.18.13-128x86-1-128x86.png",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "gdpr": "",
+    "google-analytics": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
